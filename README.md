@@ -1,2 +1,0 @@
-# maxjosephvaastu.github.io
-Pomodoro
