@@ -66,6 +66,15 @@ MIT
 @angular/router
 MIT
 
+@rx-angular/cdk
+MIT
+
+@rx-angular/state
+MIT
+
+@rx-angular/template
+MIT
+
 rxjs
 Apache-2.0
                                Apache License
